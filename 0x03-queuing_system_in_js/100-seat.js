@@ -20,7 +20,7 @@ const reserveSeat = async (number) => {
 };
 
 /**
- * Retrieves the number of available seats.
+ * Retrieves the number of seats available.
  * @returns {Promise<String>}
  */
 const getCurrentAvailableSeats = async () => {
